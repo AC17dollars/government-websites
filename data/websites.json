@@ -16,6 +16,11 @@
       "description": "Official Website for CIAA Nepal"
     },
     {
+      "name": "Department of Information Technology",
+      "url": "https://doit.gov.np/en",
+      "description": "Government of Nepal Ministry of Communication and Information Technology"
+    },
+    {
       "name": "Department of Agriculture",
       "url": "http://doanepal.gov.np/home",
       "description": "Department of Agriculture Nepal"
@@ -26,14 +31,24 @@
       "description": "Official Website for Deparment of Archaeology Nepal"
     },
     {
-      "name": "DEPARTMENT OF INFORMATION TECHNOLOGY",
-      "url": "https://doit.gov.np/en",
-      "description": "Government of Nepal Ministry of Communication and Information Technology"
+      "name": "Department of Immigration",
+      "url": "https://www.immigration.gov.np/",
+      "description": "Official Website of Department of Immigration Nepal"
+    },
+    {
+      "name": "Department of Mines and Geology",
+      "url": "https://www.dmgnepal.gov.np/",
+      "description": "Government body responsible for mining related activities in Nepal"
     },
     {
       "name": "Department of Passport",
       "url": "https://nepalpassport.gov.np/",
       "description": "Official Website of Department of Passport Nepal"
+    },
+    {
+      "name": "Department of Survey",
+      "url": "https://dos.gov.np/",
+      "description": "Official Website of Department of Survey. Mapping agency of Government of Nepal"
     },
     {
       "name": "Department of Transport Management",
@@ -69,6 +84,11 @@
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
+    },
+    {
+      "name": "Land Management and Training Center",
+      "url": "https://lmtc.gov.np/",
+      "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
     },
     {
       "name": "Lumbini Pradesh",
@@ -181,6 +201,11 @@
       "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
     },
     {
+      "name": "National Data Portal-Nepal",
+      "url": "http://nationaldata.gov.np/",
+      "description": "National Data Portal Nepal"
+    },
+    {
       "name": "National Examinations Board",
       "url": "https://www.neb.gov.np/",
       "description": "National Examinations Board is the board that organizes the Higher Secondary examination and education in Nepal"
@@ -191,9 +216,24 @@
       "description": "Official Website of NHRC"
     },
     {
+      "name": "National Health Training Center",
+      "url": "https://nhtc.gov.np/",
+      "description": "The Official Portal of Nepal's National Health Training Center"
+    },
+    {
       "name": "National Human Rights Commission",
       "url": "https://www.nhrcnepal.org/",
       "description": "Official Website of National Human Rights Commision"
+    },
+    {
+      "name": "National Information Technology Center",
+      "url": "https://nitc.gov.np/",
+      "description": "Official Website of Nepal Government's NITC"
+    },
+    {
+      "name": "Nepal Engineering Council",
+      "url": "https://nec.gov.np/",
+      "description": "Nepal Engineering council's official website. It is responsible formulating policies and issuing professional licenses for engineering profession in Nepal."
     },
     {
       "name": "Nepal Government National Portal",
@@ -204,6 +244,11 @@
       "name": "Nepal Law Commission",
       "url": "http://www.lawcommission.gov.np/",
       "description": "Nepal Law Commission is an institutional arrangement of the law-making process."
+    },
+    {
+      "name": "Nepal National Single Window",
+      "url": "http://nnsw.gov.np",
+      "description": "Nepal National Single Window"
     },
     {
       "name": "Nepal Police",
@@ -219,6 +264,26 @@
       "name": "Nepal Telecommunication Authority",
       "url": "https://www.nta.gov.np/en/",
       "description": "Official Website of Nepal Telecommunication Authority"
+    },
+    {
+      "name": "Nepal Tourism Board",
+      "url": "https://ntb.gov.np/",
+      "description": "Department of Nepal Tourism Board"
+    },
+    {
+      "name": "Central Bureau of Statistics",
+      "url": "https://cbs.gov.np/",
+      "description": "Central Beuro of Statistics"
+    },
+    {
+      "name": "Alternative Energy Promotion Centre",
+      "url": "https://aepc.gov.np/",
+      "description": "Government Body Responsible For Making Renewable Energy Mainstream Supply"
+    },
+    {
+      "name": "Nepal Trade Information Portal (NTIP)",
+      "url": "https://nepaltradeportal.gov.np/",
+      "description": "Official Website of Nepal Trade Information Portal"
     },
     {
       "name": "Office of the Prime Minister and Council of Ministers",
@@ -244,16 +309,26 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
-    }
+    },
     {
-      "name": "Department of Immigration",
-      "url": "https://www.immigration.gov.np/",
-      "description": "Official Website of Department of Immigration Nepal"
-    }
+      "name": "Bhadrapur Municipality",
+      "url": "https://bhadrapurmun.gov.np/en",
+      "description": "Official Website Of Bhadrapur Municipality"
+    },
     {
-      "name": "Nepal Tourism Board",
-      "url": "https://ntb.gov.np/",
-      "description": "Department of Nepal Tourism Board"
+        "name": "Office of the President of Nepal",
+        "url": "https://president.gov.np/",
+        "description": "Official Website of the Office of the President of Nepal"
+    },
+    {
+        "name": "Office of the Policy Research Institute",
+        "url": "https://pri.gov.np/",
+        "description": "Official Website of the Office of the Policy Research Institute"
+    },
+    {
+        "name": "Department of Hydrology and Meteorology",
+        "url": "https://dhm.gov.np/",
+        "description": "Office of the Department of Hydrology and Meteorology"
     }
   ]
 }
